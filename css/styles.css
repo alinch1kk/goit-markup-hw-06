@@ -557,7 +557,7 @@ gap: 72px;
     
     /* .icon-box {
         width: calc((100% - 72px) / 4);
-         width: 264px;
+        width: 264px;
     } */
 }
 
@@ -1408,5 +1408,5 @@ li {
     box-sizing: border-box;
 }
 div {
-    display: block; */
+    display: block;
 }
